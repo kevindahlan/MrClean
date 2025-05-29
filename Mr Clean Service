@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mr Clean Laundry</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f9f9f9;
+    color: #333;
+  }
+  header {
+    background: url('https://source.unsplash.com/1600x500/?laundry') no-repeat center/cover;
+    color: #fff;
+    text-align: center;
+    padding: 5rem 1rem;
+  }
+  header h1 {
+    margin: 0;
+    font-size: 3rem;
+  }
+  header p {
+    font-size: 1.2rem;
+  }
+  .container {
+    max-width: 900px;
+    margin: auto;
+    padding: 2rem;
+  }
+  .section {
+    margin: 2rem 0;
+  }
+  .section h2 {
+    color: #1e90ff;
+  }
+  .cta-button {
+    display: inline-block;
+    background: #1e90ff;
+    color: #fff;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    border-radius: 30px;
+    transition: background 0.3s;
+  }
+  .cta-button:hover {
+    background: #0c7cd5;
+  }
+  footer {
+    text-align: center;
+    background: #1e90ff;
+    color: #fff;
+    padding: 1rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Mr Clean Laundry</h1>
+  <p>Layanan Laundry Cepat, Bersih, dan Andal</p>
+  <a class="cta-button" href="https://wa.me/6285143971798" target="_blank">Pesan Lewat WhatsApp</a>
+</header>
+
+<div class="container">
+  <section class="section">
+    <h2>Tentang Kami</h2>
+    <p>Mr Clean Laundry adalah mitra terpercaya Anda untuk semua kebutuhan laundry. Kami menawarkan layanan cepat, bersih, dan profesional dengan harga yang terjangkau. Dengan teknologi modern dan staf berpengalaman, kami pastikan pakaian Anda kembali seperti baru!</p>
+  </section>
+
+  <section class="section">
+    <h2>Layanan Kami</h2>
+    <ul>
+      <li>Cuci Kering & Setrika</li>
+      <li>Cuci Satuan & Dry Clean</li>
+      <li>Antar Jemput Gratis</li>
+      <li>Layanan Ekspres 24 Jam</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>Hubungi Kami</h2>
+    <p>📞 Telepon: 0851-4397-1798</p>
+    <p>📍 Alamat: Jl. Kesuma No. 1, Parepare</p>
+    <p>📍 Alamat: Jl. Pakis, Malang</p>
+    <p>✉️ Email: mrclean.srvc@gmail.com</p>
+  </section>
+</div>
+
+<footer>
+  &copy; 2025 Mr Clean Laundry. All Rights Reserved.
+</footer>
+
+</body>
+</html>
